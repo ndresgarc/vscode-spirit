@@ -1,0 +1,21 @@
+{
+    "name": "vscode-spirit",
+    "displayName": "vscode-spirit",
+    "description": "FirstSpirit CMS snippets for Visual Studio Code",
+    "version": "1.0.0",
+    "publisher": "Andres Garcia",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "xml",
+                "path": "./snippets/xml.json"
+            }
+        ]
+    }
+}

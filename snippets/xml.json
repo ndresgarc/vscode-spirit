@@ -1,0 +1,17 @@
+{
+	"Insert UI5 bootstrap <script> tag": {
+		"prefix": "fs-input-text",
+		"body": [
+			"<CMS_INPUT_TEXT>",
+			"\tname=\"\"",
+			"\thFill=\"yes\"",
+			"\tsingleLine=\"no\"",
+			"\tuseLanguages=\"yes\">",
+			"\t\t<LANGINFOS>"
+			"\t\t\t<LANGINFO lang=\"*\" label=\"\" description=\"\"/>"
+			"\t\t</LANGINFOS>"
+			"</CMS_INPUT_TEXT>"
+		],
+		"description": "Insert a form text input "
+	}
+}
