@@ -1,17 +1,179 @@
 {
-	"Insert UI5 bootstrap <script> tag": {
-		"prefix": "fs-input-text",
+	"CMS_INPUT_TEXT": {
+		"prefix": ["CMS_INPUT_TEXT"],
 		"body": [
 			"<CMS_INPUT_TEXT>",
 			"\tname=\"\"",
 			"\thFill=\"yes\"",
 			"\tsingleLine=\"no\"",
 			"\tuseLanguages=\"yes\">",
-			"\t\t<LANGINFOS>"
-			"\t\t\t<LANGINFO lang=\"*\" label=\"\" description=\"\"/>"
-			"\t\t</LANGINFOS>"
+			"\t\t<LANGINFOS>",
+			"\t\t\t<LANGINFO lang=\"*\" label=\"\" description=\"\"/>",
+			"\t\t</LANGINFOS>",
 			"</CMS_INPUT_TEXT>"
 		],
-		"description": "Insert a form text input "
+		"description": "Insert a form TEXT input"
+	},
+	"FS_CATALOG": {
+		"prefix": ["FS_CATALOG"],
+		"body": [
+			"<FS_CATALOG>",
+			"\t",
+			"</FS_CATALOG>"
+		],
+		"description": "Insert a form CATALOG input "
+	},
+	"CMS_INPUT_CHECKBOX": {
+		"prefix": ["CMS_INPUT_CHECKBOX"],
+		"body": [
+			"<CMS_INPUT_CHECKBOX >",
+			"\t",
+			"</CMS_INPUT_CHECKBOX >"
+		],
+		"description": "Insert a form CHECKBOX input "
+	},
+	"CMS_INPUT_COMBOBOX": {
+		"prefix": ["CMS_INPUT_COMBOBOX"],
+		"body": [
+			"<CMS_INPUT_COMBOBOX >",
+			"\t",
+			"</CMS_INPUT_COMBOBOX >"
+		],
+		"description": "Insert a form COMBOBOX input "
+	},
+	"FS_DATASET": {
+		"prefix": ["CMS_INPUT_CHECKBOX "],
+		"body": [
+			"<CMS_INPUT_CHECKBOX >",
+			"\t",
+			"</CMS_INPUT_CHECKBOX >"
+		],
+		"description": "Insert a form DATASET input "
+	},
+	"CMS_INPUT_DATE": {
+		"prefix": ["CMS_INPUT_DATE"],
+		"body": [
+			"<CMS_INPUT_DATE >",
+			"\t",
+			"</CMS_INPUT_DATE >"
+		],
+		"description": "Insert a form DATE input "
+	},
+	"CMS_INPUT_DOM": {
+		"prefix": ["CMS_INPUT_DOM"],
+		"body": [
+			"<CMS_INPUT_DOM >",
+			"\t",
+			"</CMS_INPUT_DOM >"
+		],
+		"description": "Insert a form DOM input "
+	},
+	"CMS_INPUT_DOMTABLE": {
+		"prefix": ["CMS_INPUT_DOMTABLE"],
+		"body": [
+			"<CMS_INPUT_DOMTABLE >",
+			"\t",
+			"</CMS_INPUT_DOMTABLE >"
+		],
+		"description": "Insert a form TABLE input "
+	},
+	"CMS_INPUT_IMAGEMAP": {
+		"prefix": ["CMS_INPUT_IMAGEMAP"],
+		"body": [
+			"<CMS_INPUT_IMAGEMAP >",
+			"\t",
+			"</CMS_INPUT_IMAGEMAP >"
+		],
+		"description": "Insert a form IMAGEMAP input "
+	},
+	"FS_INDEX": {
+		"prefix": ["FS_INDEX"],
+		"body": [
+			"<FS_INDEX >",
+			"\t",
+			"</FS_INDEX >"
+		],
+		"description": "Insert a form INDEX input "
+	},
+	"CMS_INPUT_LINK": {
+		"prefix": ["CMS_INPUT_LINK"],
+		"body": [
+			"<CMS_INPUT_LINK >",
+			"\t",
+			"</CMS_INPUT_LINK >"
+		],
+		"description": "Insert a form LINK input "
+	},
+	"CMS_INPUT_LIST": {
+		"prefix": ["CMS_INPUT_LIST"],
+		"body": [
+			"<CMS_INPUT_LIST >",
+			"\t",
+			"</CMS_INPUT_LIST >"
+		],
+		"description": "Insert a form LIST input "
+	},
+	"FS_LIST": {
+		"prefix": ["FS_LIST"],
+		"body": [
+			"<FS_LIST >",
+			"\t",
+			"</FS_LIST >"
+		],
+		"description": "Insert a form LIST input "
+	},
+	"CMS_INPUT_NUMBER": {
+		"prefix": ["CMS_INPUT_NUMBER"],
+		"body": [
+			"<CMS_INPUT_NUMBER >",
+			"\t",
+			"</CMS_INPUT_NUMBER >"
+		],
+		"description": "Insert a form NUMBER input "
+	},
+	"CMS_INPUT_PERMISSION": {
+		"prefix": ["CMS_INPUT_PERMISSION"],
+		"body": [
+			"<CMS_INPUT_PERMISSION >",
+			"\t",
+			"</CMS_INPUT_PERMISSION >"
+		],
+		"description": "Insert a form PERMISSION input "
+	},
+	"CMS_INPUT_RADIOBUTTON": {
+		"prefix": ["CMS_INPUT_RADIOBUTTON"],
+		"body": [
+			"<CMS_INPUT_RADIOBUTTON >",
+			"\t",
+			"</CMS_INPUT_RADIOBUTTON >"
+		],
+		"description": "Insert a form RADIO input "
+	},
+	"FS_REFERENCE": {
+		"prefix": ["FS_REFERENCE"],
+		"body": [
+			"<FS_REFERENCE >",
+			"\t",
+			"</FS_REFERENCE >"
+		],
+		"description": "Insert a form REFERENCE input "
+	},
+	"CMS_INPUT_TEXTAREA": {
+		"prefix": ["CMS_INPUT_TEXTAREA"],
+		"body": [
+			"<CMS_INPUT_TEXTAREA >",
+			"\t",
+			"</CMS_INPUT_TEXTAREA >"
+		],
+		"description": "Insert a form TEXTAREA input "
+	},
+	"CMS_INPUT_TOGGLE": {
+		"prefix": ["CMS_INPUT_TOGGLE"],
+		"body": [
+			"<CMS_INPUT_TOGGLE >",
+			"\t",
+			"</CMS_INPUT_TOGGLE >"
+		],
+		"description": "Insert a form TOGGLE input "
 	}
 }
