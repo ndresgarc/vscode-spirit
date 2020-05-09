@@ -18,7 +18,7 @@
 		"prefix": ["FS_CATALOG"],
 		"body": [
 			"<FS_CATALOG>",
-			"\t",
+			"\tname=\"\"",
 			"</FS_CATALOG>"
 		],
 		"description": "Insert a form CATALOG input "
@@ -27,7 +27,7 @@
 		"prefix": ["CMS_INPUT_CHECKBOX"],
 		"body": [
 			"<CMS_INPUT_CHECKBOX >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_CHECKBOX >"
 		],
 		"description": "Insert a form CHECKBOX input "
@@ -36,7 +36,7 @@
 		"prefix": ["CMS_INPUT_COMBOBOX"],
 		"body": [
 			"<CMS_INPUT_COMBOBOX >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_COMBOBOX >"
 		],
 		"description": "Insert a form COMBOBOX input "
@@ -45,7 +45,7 @@
 		"prefix": ["CMS_INPUT_CHECKBOX "],
 		"body": [
 			"<CMS_INPUT_CHECKBOX >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_CHECKBOX >"
 		],
 		"description": "Insert a form DATASET input "
@@ -54,7 +54,7 @@
 		"prefix": ["CMS_INPUT_DATE"],
 		"body": [
 			"<CMS_INPUT_DATE >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_DATE >"
 		],
 		"description": "Insert a form DATE input "
@@ -63,7 +63,7 @@
 		"prefix": ["CMS_INPUT_DOM"],
 		"body": [
 			"<CMS_INPUT_DOM >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_DOM >"
 		],
 		"description": "Insert a form DOM input "
@@ -72,7 +72,7 @@
 		"prefix": ["CMS_INPUT_DOMTABLE"],
 		"body": [
 			"<CMS_INPUT_DOMTABLE >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_DOMTABLE >"
 		],
 		"description": "Insert a form TABLE input "
@@ -81,7 +81,7 @@
 		"prefix": ["CMS_INPUT_IMAGEMAP"],
 		"body": [
 			"<CMS_INPUT_IMAGEMAP >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_IMAGEMAP >"
 		],
 		"description": "Insert a form IMAGEMAP input "
@@ -90,7 +90,7 @@
 		"prefix": ["FS_INDEX"],
 		"body": [
 			"<FS_INDEX >",
-			"\t",
+			"\tname=\"\"",
 			"</FS_INDEX >"
 		],
 		"description": "Insert a form INDEX input "
@@ -99,7 +99,7 @@
 		"prefix": ["CMS_INPUT_LINK"],
 		"body": [
 			"<CMS_INPUT_LINK >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_LINK >"
 		],
 		"description": "Insert a form LINK input "
@@ -108,7 +108,7 @@
 		"prefix": ["CMS_INPUT_LIST"],
 		"body": [
 			"<CMS_INPUT_LIST >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_LIST >"
 		],
 		"description": "Insert a form LIST input "
@@ -117,7 +117,7 @@
 		"prefix": ["FS_LIST"],
 		"body": [
 			"<FS_LIST >",
-			"\t",
+			"\tname=\"\"",
 			"</FS_LIST >"
 		],
 		"description": "Insert a form LIST input "
@@ -126,7 +126,7 @@
 		"prefix": ["CMS_INPUT_NUMBER"],
 		"body": [
 			"<CMS_INPUT_NUMBER >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_NUMBER >"
 		],
 		"description": "Insert a form NUMBER input "
@@ -135,7 +135,7 @@
 		"prefix": ["CMS_INPUT_PERMISSION"],
 		"body": [
 			"<CMS_INPUT_PERMISSION >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_PERMISSION >"
 		],
 		"description": "Insert a form PERMISSION input "
@@ -144,7 +144,7 @@
 		"prefix": ["CMS_INPUT_RADIOBUTTON"],
 		"body": [
 			"<CMS_INPUT_RADIOBUTTON >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_RADIOBUTTON >"
 		],
 		"description": "Insert a form RADIO input "
@@ -153,7 +153,7 @@
 		"prefix": ["FS_REFERENCE"],
 		"body": [
 			"<FS_REFERENCE >",
-			"\t",
+			"\tname=\"\"",
 			"</FS_REFERENCE >"
 		],
 		"description": "Insert a form REFERENCE input "
@@ -162,7 +162,7 @@
 		"prefix": ["CMS_INPUT_TEXTAREA"],
 		"body": [
 			"<CMS_INPUT_TEXTAREA >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_TEXTAREA >"
 		],
 		"description": "Insert a form TEXTAREA input "
@@ -171,7 +171,7 @@
 		"prefix": ["CMS_INPUT_TOGGLE"],
 		"body": [
 			"<CMS_INPUT_TOGGLE >",
-			"\t",
+			"\tname=\"\"",
 			"</CMS_INPUT_TOGGLE >"
 		],
 		"description": "Insert a form TOGGLE input "
