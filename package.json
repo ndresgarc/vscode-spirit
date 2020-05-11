@@ -3,7 +3,11 @@
     "displayName": "vscode-spirit",
     "description": "FirstSpirit CMS snippets for Visual Studio Code",
     "version": "1.0.0",
-    "publisher": "Andres Garcia",
+    "publisher": "ndresgarc",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:ndresgarc/vscode-spirit.git"
+    },
     "engines": {
         "vscode": "^1.36.0"
     },
