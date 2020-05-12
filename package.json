@@ -19,6 +19,10 @@
             {
                 "language": "xml",
                 "path": "./snippets/xml.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
             }
         ]
     }

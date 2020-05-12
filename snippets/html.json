@@ -1,0 +1,23 @@
+{
+	"CMS_VALUE": {
+		"prefix": ["CMS_VALUE"],
+		"body": [
+			"\\$CMS_VALUE($0)\\$"
+		],
+		"description": ""
+	},
+	"CMS_REF": {
+		"prefix": ["CMS_REF"],
+		"body": [
+			"\\$CMS_REF($0)\\$"
+		],
+		"description": ""
+	},
+	"CMS_RENDER": {
+		"prefix": ["CMS_RENDER"],
+		"body": [
+			"\\$CMS_RENDER($0)\\$"
+		],
+		"description": ""
+	}
+}
